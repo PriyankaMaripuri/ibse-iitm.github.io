@@ -4,7 +4,7 @@ title: "Mining evolutionary gene expression patterns across tissues in amniotes"
 tagline: ""
 handle: 
 image: 
-people: Himanshu Sinha, Manikandan Narayanan
+people: Gaurav Bilolikar, Janu Sahana, Himanshu Sinha, Manikandan Narayanan
 category: project
 tags: 
 ---
