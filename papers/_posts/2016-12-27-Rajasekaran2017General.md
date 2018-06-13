@@ -9,7 +9,7 @@ volume:
 issue: 
 pages: 
 authors: "Rajasekaran N, Suresh S, Gopi S, Raman K, Naganathan A N"
-image: /assets/images/papers/default-paper.svg
+image: /ibse/assets/images/papers/default-paper.svg
 pdf: 
 pdflink: 
 github: 

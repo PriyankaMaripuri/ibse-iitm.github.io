@@ -9,7 +9,7 @@ volume: 4
 issue: 
 pages: 750-755
 authors: "Bhatter P, Raman K, Janakiraman V."
-image: /assets/images/papers/default-paper.svg
+image: /ibse/assets/images/papers/default-paper.svg
 pdf: 
 pdflink: 
 pmid: 28225105

@@ -1,7 +1,8 @@
-# This is the default format. 
+﻿# This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 # permalink: /:categories/:year/:month/:day/:title 
-permalink: /:categories/:title 
+permalink: /:categories/:title
+EXT: .html
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".sublime-project", ".sublime-workspace"]
 highlighter: rouge
@@ -63,8 +64,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : false
-
+  BASE_PATH : /ibse
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
   #
@@ -159,6 +159,6 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
   
 # allow page redirection
-gems:
+plugins:
   - jekyll-redirect-from
   

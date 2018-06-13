@@ -17,12 +17,12 @@ navorder: 2
 	    {% cycle 'add rows': '<div class="row">', <div class="rowb"> %}
 			<div class="col-md-6 memberbox">
 				<div class="media">
-	  				<a class="pull-left" href="{{ BASE_PATH }}{{ member.url }}">
+	  				<a class="pull-left" href="{{ BASE_PATH }}{{ member.url }}{{ site.EXT }}">
 	    				<img class="media-object member-photo" src="{{ BASE_PATH }}{{ member.image }}">
 	  				</a>
 	 			 	<div class="media-body">
 	    				<div class="head media-heading member-name">
-	    					<a href="{{ BASE_PATH }}{{ member.url }}" class="off">{{ member.title }}</a>
+	    					<a href="{{ BASE_PATH }}{{ member.url }}{{ site.EXT }}" class="off">{{ member.title }}</a>
                         <p class="note"><b>{{ member.position }}</b></p>
 	    				</div>
                         <p class="note"><i>{{ member.department }}</i></p>
@@ -49,12 +49,12 @@ navorder: 2
 	    {% cycle 'add rows': '<div class="row">', <div class="rowb"> %}
 			<div class="col-md-6 memberbox">
 				<div class="media">
-	  				<a class="pull-left" href="{{ BASE_PATH }}{{ member.url }}">
+	  				<a class="pull-left" href="{{ BASE_PATH }}{{ member.url }}{{ site.EXT }}">
 	    				<img class="media-object member-photo" src="{{ BASE_PATH }}{{ member.image }}">
 	  				</a>
 	 			 	<div class="media-body">
 	    				<div class="head media-heading member-name">
-	    					<a href="{{ BASE_PATH }}{{ member.url }}" class="off">{{ member.title }}</a>
+	    					<a href="{{ BASE_PATH }}{{ member.url }}{{ site.EXT }}" class="off">{{ member.title }}</a>
                         <p class="note"><b>{{ member.position }}</b></p>
 	    				</div>
                         <p class="note"><i>{{ member.department }}</i></p>
@@ -80,7 +80,7 @@ navorder: 2
 	  				</a> -->
 	 			 	<div class="media-body">
 	    				<div class="head media-heading member-name">
-	    					<a href="{{ BASE_PATH }}{{ member.url }}" class="off">{{ member.title }}</a>
+	    					<a href="{{ BASE_PATH }}{{ member.url }}{{ site.EXT }}" class="off">{{ member.title }}</a>
                         <p class="note"><b>{{ member.designation }}</b></p>
 	    				</div>
                         <p class="note"><i>{{ member.department }}</i></p>
@@ -110,7 +110,7 @@ navorder: 2
 	    				<img class="media-object member-photo" src="{{ member.image }}">
 	  				</a>
  -->	 			 	<div class="media-body">
-	    				<div class="head media-heading member-name"><a href="{{ BASE_PATH }}{{ member.url }}" class="off">{{ member.title }}</a></div>
+	    				<div class="head media-heading member-name"><a href="{{ BASE_PATH }}{{ member.url }}{{ site.EXT }}" class="off">{{ member.title }}</a></div>
 	    				<p class="note">{{ member.designation }}</p>
 	  				</div>
 				</div>

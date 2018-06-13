@@ -9,7 +9,7 @@ volume:
 issue: 
 pages: 
 authors: "Anupama Yadav, Himanshu Sinha"
-image: /assets/images/papers/default-paper.svg
+image: /ibse/assets/images/papers/default-paper.svg
 pdf: 
 pdflink: http://onlinelibrary.wiley.com/doi/10.1002/yea.3304/full 
 github:

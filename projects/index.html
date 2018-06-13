@@ -25,7 +25,7 @@ This page lists a sampling of some of the ongoing projects at IBSE.
   <div class='row'>
     <div class='col-md-12'>
     <div class="media">
-      <a class="project-image" href="{{ project.url }}">
+      <a class="project-image" href="{{ project.url }}{{ site.EXT }}">
         <img class="media-object" src="{{ project.image }}">
       </a>
     </div>
@@ -34,7 +34,7 @@ This page lists a sampling of some of the ongoing projects at IBSE.
   <div class='row'>
     <div class="col-md-6 paperbox">
       <div class="smallhead media-heading">
-        <a href="{{ BASE_PATH }}{{ project.url }}" class="off"><b>{{ project.title }}</b></a>
+        <a href="{{ BASE_PATH }}{{ project.url }}{{ site.EXT }}" class="off"><b>{{ project.title }}</b></a>
         <p class="project-people">{{ project.people }}</p>
       </div>
     </div><br/>

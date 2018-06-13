@@ -10,7 +10,7 @@ volume:
 issue: 
 pages: 
 authors: "Sankar A, Ranu S, Raman K."
-image: /assets/images/papers/default-paper.svg
+image: /ibse/assets/images/papers/default-paper.svg
 pdf: 
 pdflink: 
 github: RamanLab/ReactionMiner

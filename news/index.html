@@ -50,7 +50,7 @@ navorder: 6
 			<div class="smallnote">
 				{{ post.date | date_to_string }}
 				{% if author %}
-				by <a class="off" href="{{ BASE_PATH }}{{ author.url }}">{{ author.nickname }}</a>
+				by <a class="off" href="{{ BASE_PATH }}{{ author.url }}{{ site.EXT }}">{{ author.nickname }}</a>
 				{% endif %}				
 			</div>	
 			<div style="height:5px;"></div>			

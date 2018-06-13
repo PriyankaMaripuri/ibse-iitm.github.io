@@ -9,7 +9,7 @@ volume: 31
 issue: 20
 pages: 3299–3305
 authors: "Pratapa A, Balachandran S, Raman K."
-image: /assets/images/papers/default-paper.svg
+image: /ibse/assets/images/papers/default-paper.svg
 pdf: 
 pdflink: https://academic.oup.com/bioinformatics/article-pdf/31/20/3299/17087781/btv352.pdf
 github: 
