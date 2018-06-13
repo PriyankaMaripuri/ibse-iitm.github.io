@@ -4,7 +4,7 @@ title: "miRNA-34b specific regulatory network in cervical cancer"
 tagline: ""
 handle: 
 image: 
-people: Himanshu Sinha, D Karunagaran
+people: Nalini Venkatesan, Ashley Xavier, Himanshu Sinha, D Karunagaran
 category: project
 tags: 
 ---
