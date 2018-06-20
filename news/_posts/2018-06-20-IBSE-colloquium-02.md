@@ -3,7 +3,7 @@ layout: news
 title: "2nd IBSE Colloquium"
 author: "Priyanka Maripuri"
 author_handle: "Priyanka Maripuri"
-image: /assets/images/news/anurag_seminar.png
+image: /assets/images/news/anurag_seminar.jpg
 category: news
 tags: [seminar series]
 brief: "Dr. Anurag Agarwal will deliver the second seminar of the IBSE Seminar Series on 29-June-2018!"
