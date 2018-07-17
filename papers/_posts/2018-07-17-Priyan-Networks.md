@@ -8,7 +8,7 @@ journal: "IFAC-PapersOnLine"
 volume: 
 issue: 
 pages: 
-authors: "Priyan Bhattacharya,Karthik Raman and Arun K. Tangirala"
+authors: "Priyan Bhattacharya, Karthik Raman and Arun K. Tangirala"
 image: /assets/images/papers/default-paper.svg
 pdf: 
 pdflink: 
