@@ -1,4 +1,5 @@
 ---
+layout: member
 title: Likith Reddy P
 position: student
 designation: Junior Research Fellow, Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences
