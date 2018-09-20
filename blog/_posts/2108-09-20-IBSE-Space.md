@@ -2,7 +2,7 @@
 layout: post
 title: "New IBSE Space!"
 description: "Welcome to our New IBSE Space!"
-author_handle: Priyanka Maripuri
+author_handle: PM
 image: <p float="left">
           <img src="/assets/images/news/bt-block2.jpg" width="100" /> 
           <img src="/assets/images/news/BT_Block-2.jpeg" width="100" />
