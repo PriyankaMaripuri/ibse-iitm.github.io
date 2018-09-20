@@ -1,4 +1,5 @@
 ---
+layout: member
 title: Amol Dumrewal
 position: student
 designation: Dual Degree student, Department of Computer Science and Engineering

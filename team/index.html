@@ -13,7 +13,7 @@ navorder: 2
 <div class="bigspacer"></div>
 <hr/>
 {% for member in site.categories.team reversed %}
-	{% if member.alum == false and member.position != "student" %}
+	{% if member.alum == false and member.staff != true and member.position != "student" %}
 	    {% cycle 'add rows': '<div class="row">', <div class="rowb"> %}
 			<div class="col-md-6 memberbox">
 				<div class="media">
@@ -39,6 +39,32 @@ navorder: 2
 
 <!-- comment out this next line if there are multiples of two members -->
 <!-- </div> -->
+		    
+<div class="bigspacer"></div>
+<div class="bigtitle text-center">Staff</div>
+<div class="bigspacer"></div>
+<hr/>
+{% for member in site.categories.team reversed %}
+	{% if member.staff == true and member.position != "student" %}
+	    {% cycle 'add rows': '<div class="row">', <div class="rowb"> %}
+			<div class="col-md-6 memberbox">
+				<div class="media">
+	  				<a class="pull-left" href="{{ BASE_PATH }}{{ member.url }}">
+	    				<img class="media-object member-photo" src="{{ BASE_PATH }}{{ member.image }}">
+	  				</a>
+	 			 	<div class="media-body">
+	    				<div class="head media-heading member-name">
+	    					<a href="{{ BASE_PATH }}{{ member.url }}" class="off">{{ member.title }}</a>
+                        <p class="note"><b>{{ member.position }}</b></p>
+	    				</div>
+                        <p class="note"><i>{{ member.department }}</i></p>
+	    				<p class="note">{{ member.interests }}</p>
+	  				</div>
+				</div>
+	        </div>	  
+	    {% cycle 'close rows': <div class="rowb">, '</div><div class="bigspacer"></div>' %}
+	{% endif %}
+{% endfor %}
 
 <div class="bigspacer"></div>
 <div class="bigtitle text-center">Students</div>

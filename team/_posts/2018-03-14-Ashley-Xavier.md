@@ -1,4 +1,5 @@
 ---
+layout: member
 title: Ashley Xavier
 position: student
 designation: Undergraduate Student, Department of Biotechnology, Bhupat & Jyoti Mehta School of Biosciences

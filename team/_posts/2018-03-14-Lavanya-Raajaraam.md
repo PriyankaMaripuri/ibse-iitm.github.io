@@ -1,4 +1,5 @@
 ---
+layout: member
 title: Lavanya Raajaraam
 position: student
 designation: PhD scholar, Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences 

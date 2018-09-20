@@ -1,4 +1,5 @@
 ---
+layout: member
 title: Viswa Chaithanya K
 position: student
 designation: PhD scholar, Department of Biotechnology, Bhupat and Jyoti Mehta School of Biosciences 
