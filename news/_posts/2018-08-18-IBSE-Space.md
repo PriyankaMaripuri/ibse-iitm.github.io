@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 title: "New IBSE Space!"
 description: "Welcome to our New IBSE Space!"
 author_handle: PM
