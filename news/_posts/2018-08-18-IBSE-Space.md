@@ -4,6 +4,7 @@ title: "New IBSE Space!"
 description: "Welcome to our New IBSE Space!"
 author_handle: PM
 category: news
+brief: New space for IBSE at RBCDSAI, 5th Floor, Block-II, Bhupat and Jyoti Mehta School of Biosciences
 tags: []
 ---
 {% include JB/setup %}
@@ -25,4 +26,4 @@ Our new IBSE space
    <img src="/assets/images/news/IBSE_Group.jpg" width="100" />
 </p>
 
-A brand new lab space for IBSE was opened on August 17th, 2018 in Block 2 of Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras. The lab accommodates several researchers and visiting faculty. Each workstation in the lab is provided with high end personal computers that have fast connectivity to clusters and internet. There is great intermingling of researchers from diverse fields as we share the floor with Robert Bosch Center for Data Science and Artificial Intelligence (RBCDSAI) leading to interesting discussions over coffee.  
+A brand new lab space for IBSE was opened on August 17th, 2018 in Block II of Bhupat and Jyoti Mehta School of Biosciences, Indian Institute of Technology Madras alongside the Robert Bosch Center for Data Science and Artificial Intelligence (RBCDSAI). The lab accommodates several researchers and visiting faculty. Each workstation in the lab is provided with high end personal computers that have fast connectivity to clusters and internet. There is great intermingling of researchers from diverse fields as we share the floor with RBCDSAI leading to interesting discussions over coffee.  
