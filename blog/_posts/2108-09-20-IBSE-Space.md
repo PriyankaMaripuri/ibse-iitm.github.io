@@ -3,20 +3,12 @@ layout: post
 title: "New IBSE Space!"
 description: "Welcome to our New IBSE Space!"
 author_handle: PM
-image: <p float="left">
-          <img src="/assets/images/news/bt-block2.jpg" width="100" /> 
-          <img src="/assets/images/news/BT_Block-2.jpeg" width="100" />
-       </p>
-       <p float="left">
-           <img src="/assets/images/news/IBSE.jpeg" width="100" /> 
-          <img src="/assets/images/news/IBSE-space.jpeg" width="100" />
-       </p>
-       <p float="left">
-          <img src="/assets/images/news/IBSE_space-1.jpeg" width="100" /> 
-          <img src="/assets/images/news/IBSE_space-2.jpeg" width="100" />
-       </p>
+image: 
+          <img src="/assets/images/news/bt-block2.jpg" /> <img src="/assets/images/news/BT_Block-2.jpeg" />
+          <img src="/assets/images/news/IBSE.jpeg" /> <img src="/assets/images/news/IBSE-space.jpeg" />
+          <img src="/assets/images/news/IBSE_space-1.jpeg" /> <img src="/assets/images/news/IBSE_space-2.jpeg" />
        <p float="middle">
-          <img src="/assets/images/news/IBSE_Group.jpg" width="100" />
+          <img src="/assets/images/news/IBSE_Group.jpg" />
        </p>
 category: blog
 tags: []
