@@ -1,8 +1,23 @@
 ---
 layout: post
 title: "New IBSE Space!"
-description: ""
+description: "Welcome to our New IBSE Space!"
 author_handle: Priyanka Maripuri
+image: <p float="left">
+          <img src="/assets/images/news/bt-block2.jpg" width="100" /> 
+          <img src="/assets/images/news/BT_Block-2.jpeg" width="100" />
+       </p>
+       <p float="left">
+           <img src="/assets/images/news/IBSE.jpeg" width="100" /> 
+          <img src="/assets/images/news/IBSE-space.jpeg" width="100" />
+       </p>
+       <p float="left">
+          <img src="/assets/images/news/IBSE_space-1.jpeg" width="100" /> 
+          <img src="/assets/images/news/IBSE_space-2.jpeg" width="100" />
+       </p>
+       <p float="middle">
+          <img src="/assets/images/news/IBSE_Group.jpg" width="100" />
+       </p>
 category: blog
 tags: []
 ---
