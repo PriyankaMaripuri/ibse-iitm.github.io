@@ -3,6 +3,8 @@ layout: post
 title: Monograph published by Aarthi Ravikrishnan / Karthik Raman
 img: /assets/book.jpg
 categories: news
+author: "Karthik Raman"
+author_handle: "kraman"
 brief: "Aarthi Ravikrishnan and Karthik Raman have published a monograph (CRC Press Focus Computational Biology Series) titled 'Systems-Level Modelling of Microbial Communities: Theory and Practice'"
 ---
 by Aarthi Ravikrishnan and Karthik Raman
