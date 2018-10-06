@@ -10,7 +10,7 @@ interests: Population Genetics, Applications of Machine Learning and Data Mining
 image: /assets/images/people/sriraghav-srinivasan.jpg
 github: 
 twitter: 
-alum: false
+alum: true
 ---
 
 I'm Sriraghav, and I'm working with Prof. Himanshu Sinha for my dual degree project. I'm currently in my 4th year of dual degree in Biological Engineering.
