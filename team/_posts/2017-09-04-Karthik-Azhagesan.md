@@ -10,5 +10,5 @@ interests: Deep learning, Machine Learning, Network Biology
 image: /assets/images/people/karthik.jpg
 github: 
 twitter: karthikalam
-alum: false
+alum: true
 ---
