@@ -10,7 +10,7 @@ interests: Computational Biology
 image: /assets/images/people/Muthukumarasamy-Saravanan.jpg
 github: kumara0804
 twitter: 
-alum: false
+alum: true
 ---
 
  I am an Undergraduate student at IIT Madras pursuing Dual Degree in Biological Sciences. I work on reaction networks from various organisms to learn and predict metabolic pathways - see [Reaction Miner, A Sankar et. al].
