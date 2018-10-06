@@ -1,8 +1,8 @@
 ---
 layout: news
 title: "2nd IBSE Colloquium"
-author: "Priyanka Maripuri"
-author_handle: "Priyanka"
+author: Priyanka Maripuri
+author_handle: PM
 image: /assets/images/news/anurag_seminar.jpg
 category: news
 tags: [seminar series]
