@@ -10,7 +10,7 @@ interests: Gene regulation through microRNA , Cancer, Transcription profiling, N
 image: /assets/images/people/ashley-xavier.jpg
 github: ashleyx
 twitter: ashzegreat
-alum: false
+alum: true
 ---
 
 I use TCGA dataset to predict microRNA targets in specific cancers and the variation in their regulatory network in different cancers and locations. Mainly focused on computational biology. Hobbies include photography, travelling and gaming. 

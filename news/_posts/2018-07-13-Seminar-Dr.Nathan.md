@@ -2,7 +2,7 @@
 layout: news
 title: "Seminar by Dr. Nathan Bachmann"
 author: Priyanka Maripuri
-author_handle: 
+author_handle: PM
 image: 
 category: news
 tags: [in the news]

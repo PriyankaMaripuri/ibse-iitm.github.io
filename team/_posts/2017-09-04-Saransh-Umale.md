@@ -10,7 +10,7 @@ research interests : Design principles underlying multi-scale biological phenome
 image: /assets/images/people/saransh.jpeg
 github: saranshumale
 twitter: UmaleSaransh
-alum: false
+alum: true
 ---
 
 My interests lie on the interface of Physics and Biology. It intrigues me as to how one can use ideas from Statistical Physics, Non-linear dynamics etc. to get quantitative and predictive insights into biological phenomena occurring at various length and time-scales. More recently, I have been looking at the topological determinants of modularity in gene regulatory networks.

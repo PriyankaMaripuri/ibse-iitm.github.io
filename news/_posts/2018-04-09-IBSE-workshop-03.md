@@ -2,7 +2,7 @@
 layout: news
 title: "IBSE 3rd Workshop"
 author: Priyanka Maripuri
-author_handle: Priyanka
+author_handle: PM
 image: /assets/images/news/default-news.png
 category: news
 tags: [workshop]
