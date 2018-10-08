@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monograph published by Aarthi Ravikrishnan / Karthik Raman
-image: /assets/images/news/book.jpg
+img: /assets/book.jpg
 categories: news
 author: "Karthik Raman"
 author_handle: "kraman"
