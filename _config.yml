@@ -162,3 +162,5 @@ JB :
 plugins:
   - jekyll-redirect-from
   
+# Google Analytics
+google_analytics: UA-128251199-1
