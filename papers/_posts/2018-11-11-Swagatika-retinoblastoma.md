@@ -22,7 +22,7 @@ category: paper
 published: true
 peerreview: true
 review: 
-tags: [networks]
+tags: 
 ---
 {% include JB/setup %}
 
